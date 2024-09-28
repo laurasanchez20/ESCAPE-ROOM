@@ -1,2 +1,2 @@
 # ESCAPE-ROOM
-Juego de escape room 
+Este es el codigo para un juego estilo escape room basado en una isl
